@@ -4,7 +4,7 @@ import { Box,Heading,Text ,Image} from '@chakra-ui/react'
 const Footer = () => {
   return (
     <div>
-        <Box bg='#1f4985' w='100%' p={4}>
+        <Box bg='#1f4985' w='100%'>
 
             <Box w='100%' p={4} color='white' display='flex' justifyContent='space-evenly'>
 
