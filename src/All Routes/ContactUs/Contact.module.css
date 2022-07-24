@@ -1,0 +1,20 @@
+.contactUs {
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid rgb(221, 215, 215);
+    border-radius: 10px;
+    padding: 30px;
+    line-height: 10px;
+    margin-bottom: 40px;
+}
+.contactUs p {
+    margin-bottom: 10px;
+}
+.contactUs  h1{
+    margin-bottom: 10px;
+}
+.mb3 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}

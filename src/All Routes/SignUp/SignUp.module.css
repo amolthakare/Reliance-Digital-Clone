@@ -1,0 +1,16 @@
+.form {
+    width: 30%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: left;
+    border: 2px solid rgb(138, 134, 134);
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.form h2 {
+    text-align: left;
+    margin-bottom: 30px;
+    font-weight: lighter;
+}
